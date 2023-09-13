@@ -7,9 +7,9 @@
 </picture>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/prateek-wayne/count.svg" />
-</p>
+  <code>Visitor's count</code><br>
+    <img src="https://profile-counter.glitch.me/prateek-wayne/count.svg"/>
+  </p>
 
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prateek-wayne&theme=github-dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats) 
