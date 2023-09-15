@@ -1,4 +1,4 @@
-# <code style="color: blue"> Hi there 👋 I am Prateek... </code>
+# <code style="color: blue"> Hi there 👋 I am Prateek.. </code>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
